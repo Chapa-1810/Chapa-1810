@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?Chapa-1810=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Chapa-1810/Chapa-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
